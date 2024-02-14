@@ -32,6 +32,10 @@
 - Adjust the shape
     ![7.jpg](assets/7adjustshape.jpg)
 
+- Take out the clay in different color
+- Use hands or tools to adjust the shape like previous steps
+    ![9.jpg](assets/9tooladjust.jpg)
+
 ##  Assemble
 - Score the top side with a needle tool or fork （this can make the two parts stick together more tightly.）
 
