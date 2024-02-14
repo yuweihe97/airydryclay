@@ -1,7 +1,7 @@
-# airydryclay
+# Airydryclay
 
 
-*   Preparation:
+##   Preparation:
 - Ai-dry Clay
 - Mat
 - Modeling tools
@@ -9,13 +9,12 @@
     
     ![1.jpg](assets/1preparation.jpg)
     
-*   Take out the clay, and use your hands or a board to knead and roll it into a ball. (Using a board can reduce fingerprints)
-*   Knead or roll it into a cylinder.
+##   Take out the clay, and use your hands or a board to knead and roll it into a ball. (Using a board can reduce fingerprints)
     
     ![2.jpg](assets/2rolling1.jpg)
     ![3.jpg](assets/3rolling2.jpg)
     
-*   Knead or roll it into a cylinder.
+##   Knead or roll it into a cylinder.
     
     ![4.jpg](assets/4cylinder.jpg)
     
