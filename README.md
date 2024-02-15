@@ -5,7 +5,7 @@ Are you ready to dive into the magical world of Air-dry clay? Let's get our hand
 
 ![18.jpg](assets/18compare.jpg)
 
-##   Preparation:
+##  ✨Preparation:
 - Ai-dry Clay
 - Mat
 - Modeling tools
@@ -13,7 +13,7 @@ Are you ready to dive into the magical world of Air-dry clay? Let's get our hand
 
     ![1.jpg](assets/1preparation.jpg)
 
-##   Shaping
+##   ✨Shaping
 - Take out the clay.
 - Use a ziplock bag to seal the excess clay to prevent it from drying out.
     ![8.jpg](assets/8ziplockbag.jpg)
@@ -39,7 +39,7 @@ Are you ready to dive into the magical world of Air-dry clay? Let's get our hand
 - Use hands or tools to adjust the shape like previous steps.
     ![9.jpg](assets/9tooladjust.jpg)
 
-##  Assemble
+##  ✨Assemble
 - Score the top side with a needle tool or fork （this can make the two parts stick together more tightly.）
 
     ![10.jpg](assets/10surface.jpg)
@@ -47,7 +47,7 @@ Are you ready to dive into the magical world of Air-dry clay? Let's get our hand
 - Connect the two parts together.
     ![11.jpg](assets/11assemble.jpg)
 
-##  Make details
+##  ✨Make details
 
 - Use a tool to drill small hole to make eyes and a mouth.
     ![15.jpg](assets/15drill.jpg)
@@ -59,14 +59,14 @@ Are you ready to dive into the magical world of Air-dry clay? Let's get our hand
 - Assemble the eyes, mouth, and body together.
     ![16.jpg](assets/16assembleeyes.jpg)
 
-##  Coat (optional)
+##  ✨Coat (optional)
 - If you prefer a smooth surface, you can use UV resin after the clay has dried.
     ![17.jpg](assets/17uv.jpg)
 
 - Below is a comparison between applying UV resin and not using UV resin.
     ![18.jpg](assets/18compare.jpg)
 
-## Finish
+## ✨Finish
 🎉 Congratulations, you've reached the final stage of our Air-dry clay workshop! 
 
 In the end, you can:
