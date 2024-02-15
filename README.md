@@ -1,4 +1,7 @@
-# Airydryclay
+## 🌈 Welcome to Air-dry Clay Workshop! 🌈#
+Hey there, creative souls! 🎨✨ 
+
+Are you ready to dive into the magical world of Air-dry clay? Let's get our hands dirty and make some art! 🥳🥳
 
 ![18.jpg](assets/18compare.jpg)
 
@@ -11,7 +14,7 @@
     ![1.jpg](assets/1preparation.jpg)
 
 ##   Shaping
-- Take out the clay
+- Take out the clay.
 - Use a ziplock bag to seal the excess clay to prevent it from drying out.
     ![8.jpg](assets/8ziplockbag.jpg)
 
@@ -29,11 +32,11 @@
     ![5.jpg](assets/5push.jpg)
     ![6.jpg](assets/6pushedcylinder.jpg)
 
-- Adjust the shape
+- Adjust the shape.
     ![7.jpg](assets/7adjustshape.jpg)
 
-- Take out the clay in different color
-- Use hands or tools to adjust the shape like previous steps
+- Take out the clay in different color.
+- Use hands or tools to adjust the shape like previous steps.
     ![9.jpg](assets/9tooladjust.jpg)
 
 ##  Assemble
@@ -49,7 +52,32 @@
 - Use a tool to drill small hole to make eyes and a mouth.
     ![15.jpg](assets/15drill.jpg)
 
-- 
+- Use hands or tools to knead the mud into thin strips, and cut out eyes and mouth.
+    ![13.jpg](assets/13rollingeyes.jpg)
+    ![14.jpg](assets/14cuteyes.jpg)
+
+- Assemble the eyes, mouth, and body together.
+    ![16.jpg](assets/16assembleeyes.jpg)
+
+##  Coat (optional)
+- If you prefer a smooth surface, you can use UV resin after the clay has dried.
+    ![17.jpg](assets/17uv.jpg)
+
+- Below is a comparison between applying UV resin and not using UV resin.
+    ![18.jpg](assets/18compare.jpg)
+
+## Finish
+🎉 Congratulations, you've reached the final stage of our Air-dry clay workshop! 
+
+In the end, you can:
+- Attach a magnet to the back to turn it into a fridge magnet.
+- Make it into a keychain, an ornament, and so on.
+    ![19.jpg](assets/19magnet.jpg)
+
+
+
+
+
 
 
 
